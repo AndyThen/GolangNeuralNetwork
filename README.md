@@ -7,3 +7,5 @@ This project involved using Yahoo's API to predict the next stock market data of
 
 All dependencies pertaining to the project can be found in the Golang module files and the enviornment for Anaconda can be found in
 environment.yml
+
+**Make sure you run you include your own directory to un this project**
